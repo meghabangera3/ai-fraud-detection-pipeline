@@ -1,0 +1,23 @@
+DAILY ANOMALY DETECTION REPORT — 2026-06-20
+==================================================
+Total transactions processed: 50,000
+Flagged as anomalous: 1,000 (2.00%)
+
+Top flagged merchant categories:
+  - Utilities: 198
+  - ATM Withdrawal: 133
+  - Travel: 110
+
+Top cities with flagged activity:
+  - Chennai: 176
+  - Kolkata: 146
+  - Bangalore: 144
+
+Top 5 accounts by flagged transaction value:
+  - ACC01604: Rs 440,724.81
+  - ACC01225: Rs 268,491.08
+  - ACC01235: Rs 175,603.47
+  - ACC00506: Rs 159,005.84
+  - ACC00373: Rs 155,325.38
+
+Full detail saved to: reports/flagged_transactions_2026-06-20.csv
